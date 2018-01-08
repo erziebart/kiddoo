@@ -1,0 +1,9 @@
+{*
+def abs(x) = x/(x>0) ; -x
+
+def y = abs(n)
+*}
+
+def abs(x) = x/(x>0) ; -x
+
+def y = abs(n)
