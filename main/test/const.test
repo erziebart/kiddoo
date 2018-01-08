@@ -1,0 +1,3 @@
+con two = 2.0
+
+def y = two

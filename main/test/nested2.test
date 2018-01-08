@@ -1,0 +1,12 @@
+def tstart = 0
+def tstop = 0
+def tstep = 1
+
+def add_10(k) = 
+    def add_4(k) = 4 + k
+    def add_3(k) = 3 + k
+    def add_2(k) = 2 + k
+    def add_1(k) = 1 + k
+    -> add_4(add_3(add_2(add_1(k))))
+
+def x = add_10(n)

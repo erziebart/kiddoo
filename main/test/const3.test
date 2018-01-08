@@ -1,0 +1,5 @@
+def y = 
+    con one = 1.0
+    con two = one + one
+    con four = two + two
+    -> four

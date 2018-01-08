@@ -1,0 +1,5 @@
+def f[g<0 1>](k) = k
+
+def x = 
+    def a(c) = 0.5c + 1
+    -> f[b](n)

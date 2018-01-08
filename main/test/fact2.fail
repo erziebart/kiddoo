@@ -1,0 +1,15 @@
+def nstart = 0
+def nstop = 10
+def nstep = 1
+def tstart = 0
+def tstop = 0
+def tstep = 1
+
+def ifthenelse(cond) = a()/cond ; b()
+
+def fact(k) = 
+    def a = 1
+    def b = k*fact(k-1)
+    -> ifthenelse(k <= 0)
+
+def x = fact(n)

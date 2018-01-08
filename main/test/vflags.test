@@ -1,0 +1,11 @@
+def tstart = 100
+
+def nstart = 0
+def nstop = 10
+def nstep = 0.2
+ 
+def tstart = 0
+def tstop = 5
+def tstep = 0.5
+
+def x = (1/2)(n - 5)^2

@@ -1,0 +1,3 @@
+con tstep = 0.1
+
+def y = t^n 

@@ -1,0 +1,5 @@
+con two = 2.0
+
+con three = two + 1
+
+def y = three

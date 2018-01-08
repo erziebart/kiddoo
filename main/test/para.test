@@ -1,0 +1,7 @@
+def tstart = -10
+def tstop = 10
+def tstep = 0.1
+
+def x = n
+
+def y = 0.5t*n^2

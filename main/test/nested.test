@@ -1,0 +1,4 @@
+def x = 
+    def a = 2n
+    def b = t - 3
+    -> a^b
