@@ -4,7 +4,7 @@ Language interpreter and grapher for programmable 3D functions
 
 ### To Compile
 In the main folder run "make"
-* Note: Translator requires ocamlopt compiler, ocamlfind. Grapher requires gcc, sdl installations
+* Note: Translator requires the ocamlopt compiler and ocamlfind to compile. Grapher requires gcc to compile, and an sdl2 installation to run.
 
 
 ### To Translate Code
