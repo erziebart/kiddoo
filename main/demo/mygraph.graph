@@ -1,11 +1,6 @@
-{*
+{* makes a quadratic expression *}
 def quadratic(c1,c2,c3) = c1*n^2 + c2*n + c3
 
-def x = quadratic(1.5,0,0)
-def y = (1/2)t*n^3 + quadratic(0.2,-1.2,1)
-*}
-
-def quadratic(c1,c2,c3) = c1*n^2 + c2*n + c3
-
+{* set x and y values for the graph *}
 def x = quadratic(1.5, 0, 0)
 def y = (1/2)t*n^3 + quadratic(0.2, -1.2, 1)
